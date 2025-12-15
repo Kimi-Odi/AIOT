@@ -1,0 +1,13 @@
+streamlit
+openai
+python-dotenv
+pandas
+matplotlib
+faster-whisper
+pydub
+PyPDF2
+numpy
+reportlab
+jinja2
+librosa
+soundfile
